@@ -1,0 +1,3 @@
+﻿  Source.cpp
+h:\ai project submission\geneticalg\geneticalg\source.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GeneticAlg.vcxproj -> H:\AI Project Submission\GeneticAlg\Debug\GeneticAlg.exe
